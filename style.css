@@ -11,6 +11,7 @@ body {
     flex-direction: row; 
     flex-wrap: nowrap;
     position: fixed;
+    z-index:999;
     top: 0;
     width: 100%;
     transition: background-color 0.4s ease, box-shadow 0.4s ease;
@@ -318,4 +319,5 @@ margin-left: 115px;
     height: 40px;
     width: 40px;
     margin: 7px 10px;
+
 }
