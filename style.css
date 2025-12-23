@@ -3,7 +3,7 @@ body {
     min-height: 100vh;
 
     background-image: url("asset_home/background_image.jpeg");
-    background-size: cover;  
+    background-size: auto;  
     overflow-y:scroll ;
 }
 .navbar{
@@ -321,5 +321,6 @@ margin-left: 115px;
     margin: 7px 10px;
 
 }
+
 
 
